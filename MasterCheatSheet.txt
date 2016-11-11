@@ -75,10 +75,21 @@ Math
 	(x0+r*cos*theta, y0+r*sin*theta)
 		Equation to plot points on a circle with given radius(r), centre(x0,y0), and angle(theta).
 		
-Unity/C#
+Unity(C#)
 	How to use generic lists
 		using System.Collections.Generic;
 		List<list type> myList = new List<list type>();
 		myList.Add(object to add);
 		myList[index of object in list] = object of list type;
 		
+Unity(Key Commands)
+	Ctrl + b
+		Build and run
+	Ctrl + Shift + b
+		Bring up the Build Settings
+	w
+		Move tool
+	e
+		Rotate tool
+	r
+		Scale tool
