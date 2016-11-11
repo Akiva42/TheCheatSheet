@@ -1,0 +1,72 @@
+Git
+	Basic commands
+		git clone (the http or ssh string)
+			This creates folder at the PWD with all the repo files in it.
+		git pull
+			This downloads all changes from the git server to your local git folder.
+		git add *
+			This adds all changed files to the commit.
+		git commit -m "type your message here"
+			This creates a commit with a message.
+		git push
+			This uploads your commit to the git server.
+		git --version
+			
+			
+			
+Android
+	Viewing console output via USB:
+		1. In CMD go to C:\Users\Akiva\AppData\Local\Android\sdk\platform-tools
+		2. type adb logcat -s (name of program)
+		
+Functions
+	Map Value
+		C#
+			float map(float value, float minIn, float maxIn, float minOut, float maxOut)
+			{
+				return minOut + (value - minIn) * (maxOut - minOut) / (maxIn - a1);
+		}
+		
+CMD
+	cd	(name of directory)
+		Moves to the requested directory.
+	cd "(name of directory)"
+		Moves to the directory even if it has spaces.
+	dir
+		Lists add directories and files in the PWD. This is the same as "ls" on Unix systems.
+		
+Windows
+	Windows-key + e
+		Opens an explorer window.
+	Windows-key + d
+		Shows the desktop.
+	Ctrl + c
+		Copies selected data to clipboard.
+	Ctrl + v
+		Pastes data in clipboard.
+	Ctrl + z
+		Un-does last action.
+	Ctrl + y
+		Re-does an action that was previously undone.
+	Ctrl + s
+		Saves the current file.
+	Ctrl + shit + s
+		Brings up the "Save As" dialogue box.
+	Alt + Tab
+		Switches to next window.
+	Alt + Shift + Tab
+		Switches to previous window.
+	Ctrl + f
+		Brings up a "find" search documment
+	
+Chrome
+	Ctrl + n
+		Open a new window.
+	Ctrl + Shift + n
+		Opens a new incognito window.
+	Ctrl + t
+		Opens a new tab.
+	Ctrl + Tab
+		Switches to next tab.
+	Ctrl + Shift + Tab
+		Switches to previous tab.
