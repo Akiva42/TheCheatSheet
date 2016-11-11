@@ -24,7 +24,7 @@ Functions
 		C#
 			float map(float value, float minIn, float maxIn, float minOut, float maxOut)
 			{
-				return minOut + (value - minIn) * (maxOut - minOut) / (maxIn - a1);
+				return minOut + (value - minIn) * (maxOut - minOut) / (maxIn - minIn);
 		}
 		
 CMD
