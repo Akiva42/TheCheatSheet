@@ -61,7 +61,7 @@ Windows
 	
 Chrome
 	Ctrl + n
-		Open a new window.
+		Opens a new window.
 	Ctrl + Shift + n
 		Opens a new incognito window.
 	Ctrl + t
@@ -70,3 +70,8 @@ Chrome
 		Switches to next tab.
 	Ctrl + Shift + Tab
 		Switches to previous tab.
+		
+Math
+	(x0+r*cos*theta, y0+r*sin*theta)
+		Equation to plot points on a circle with given radius(r), centre(x0,y0), and angle(theta).
+		
