@@ -11,6 +11,9 @@ Git
 		git push
 			This uploads your commit to the git server.
 		git --version
+			Gets the current version of git
+		git rm (file name)
+			removes the file from the commit
 			
 			
 			
@@ -64,7 +67,7 @@ Chrome
 		Opens a new window.
 	Ctrl + Shift + n
 		Opens a new incognito window.
-	Ctrl + t
+	Ctrl + t	
 		Opens a new tab.
 	Ctrl + Tab
 		Switches to next tab.
@@ -75,12 +78,21 @@ Math
 	(x0+r*cos*theta, y0+r*sin*theta)
 		Equation to plot points on a circle with given radius(r), centre(x0,y0), and angle(theta).
 		
+openFrameworks and C++
+	vector <int> myVector;
+		creates a vector (like a list/array/arraylist) with type int he <> and the name that follows.
+		
 Unity(C#)
 	How to use generic lists
 		using System.Collections.Generic;
 		List<list type> myList = new List<list type>();
 		myList.Add(object to add);
 		myList[index of object in list] = object of list type;
+	How to use array lists
+		int[] myInts = new int[10]
+			This makes a new arraylist with 10 slots for ints
+		int[0] = 42;
+			This sets the 0th slot to 42
 		
 Unity(Key Commands)
 	Ctrl + b
@@ -93,3 +105,8 @@ Unity(Key Commands)
 		Rotate tool
 	r
 		Scale tool
+
+HTML
+	<a href="www.akivadesing.com">Akiva's Site</a>
+		This is how you make a basic link
+	
