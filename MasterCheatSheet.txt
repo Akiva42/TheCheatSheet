@@ -110,3 +110,20 @@ HTML
 	<a href="www.akivadesing.com">Akiva's Site</a>
 		This is how you make a basic link
 	
+Blender
+	p (while in edit mode)
+		Separates mesh into new object
+	g
+		Grab
+	s
+		Scale
+	r
+		Rotate
+	Ctrl+p
+		Parent first selected object to second selected object
+	Ctrl+j
+		Joins multiple objects into one object
+	b
+		Box selection
+	c
+		Brush selection
